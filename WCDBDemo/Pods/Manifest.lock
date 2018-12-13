@@ -1,0 +1,29 @@
+PODS:
+  - SQLiteRepairKit (1.2.1):
+    - WCDBOptimizedSQLCipher (~> 1.2.0)
+  - WCDB (1.0.7.5):
+    - SQLiteRepairKit (~> 1.2.0)
+    - WCDBOptimizedSQLCipher (~> 1.2.0)
+  - WCDBOptimizedSQLCipher (1.2.1)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - WCDB
+  - YYModel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SQLiteRepairKit
+    - WCDB
+    - WCDBOptimizedSQLCipher
+    - YYModel
+
+SPEC CHECKSUMS:
+  SQLiteRepairKit: 4d21bab9eff6a273f63da6815a0d1659e53f5bde
+  WCDB: 8e90babdeb7784c569353a4bd22a66c0a175a882
+  WCDBOptimizedSQLCipher: baf44493b0c7a3d49e97bc5b64a3856f6428ddd1
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 4c2c44c7bdea459d9c7750788618eb2a497b00b1
+
+COCOAPODS: 1.5.3

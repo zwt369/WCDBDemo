@@ -1,0 +1,7 @@
+target 'WCDBDemo' do
+
+pod 'YYModel'
+pod 'WCDB'
+
+
+end
